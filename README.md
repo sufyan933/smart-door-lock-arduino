@@ -87,7 +87,7 @@ The deployed physical circuit assembly demonstrating exact terminal wiring and f
 
 The complete operational flow of the smart security lock system is illustrated below.
 
-```text
+
        [ System Bootup ]
                │
                ▼
@@ -149,7 +149,8 @@ The complete operational flow of the smart security lock system is illustrated b
       ▼                 ▼                                      │
       └─────────────────┴──────────────────────────────────────┘
 
-```text
+
+
 🔌 Technical Schematic & Hardware Wiring
 The complete layout, architecture, and deployment footprints are compiled uniformly beneath static hardware definitions. To avoid operational failures during live terminal operations, Row 1 of the matrix array is isolated to Digital Pin 8. This removes trace routing conflicts with the Arduino's hardware UART serial channels (Pins 0/1).
 
