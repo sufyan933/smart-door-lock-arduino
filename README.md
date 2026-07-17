@@ -96,7 +96,8 @@ The deployed physical circuit assembly demonstrating exact terminal wiring and f
 
 > **Watch the project in action**
 
-https://github.com/USERNAME/REPOSITORY/assets/YOUR_VIDEO_ID
+[Watch Video](WhatsApp Video 2026-07-17 at 10.49.23 AM.mp4)
+
 
 ---
 
