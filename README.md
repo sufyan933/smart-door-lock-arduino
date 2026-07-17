@@ -96,8 +96,11 @@ The deployed physical circuit assembly demonstrating exact terminal wiring and f
 
 > **Watch the project in action**
 
-[Watch Video](WhatsApp Video 2026-07-17 at 10.49.23 AM.mp4)
-
+<p align="center">
+  <video src="assets/WhatsApp Video 2026-07-17 at 10.49.23 AM.mp4" width="90%" controls>
+    Your browser does not support the video tag. Please download the video file directly from the assets folder.
+  </video>
+</p>
 
 ---
 
